@@ -1,7 +1,7 @@
 ---
 name: yc-startup-idea-evaluator
 description: Evaluate and stress-test a startup idea the way a Y Combinator partner would, using YC's own published doctrine (Paul Graham essays, Startup School, YC partner talks, Light Cone) with cited sources. Use when someone pitches a startup idea, asks "is this a good idea?", wants a devil's advocate, wants to prepare a YC application or interview, is choosing between ideas, or is deciding whether to pivot or kill an idea. Also in Spanish or Catalan: "evalúa mi startup", "¿es buena idea?", "hazme de abogado del diablo", "como un partner de YC", "¿pivoto?", "¿vale la pena esta idea?".
-version: 3.0.0
+version: 3.1.0
 ---
 
 # YC startup idea evaluator
@@ -67,9 +67,34 @@ Use `references/scoring_rubric.md`. Score each dimension with its anchors, apply
 
 ### 6. Report
 
-Use `templates/teardown_report.md`. Required parts: verdict in two sentences, the scorecard, the 3 strongest reasons for and against (each with a citation), the single riskiest assumption, the cheapest test that would kill or confirm it within 14 days, and what would change your mind.
+Use `templates/teardown_report.md`. Required parts: verdict in two sentences, the scorecard, the 3 strongest reasons for and against (each with a citation), the single riskiest assumption, the cheapest test that would kill or confirm it within 14 days, what would change your mind, and what to watch or read next.
 
-Short form (gut check): verdict, riskiest assumption, next test, in under 150 words.
+**Watch next.** Recommend 1 to 3 sources from `references/sources.md` that speak directly to this idea's weakest dimension or riskiest assumption. Give the title, the link from `sources.md`, and one line on why this founder should watch it now (for example: a tarpit pitch gets "Tarpit Ideas: The Sequel"; a founder with no users gets a talk on getting the first 10 customers). Prefer videos and short essays. Never recommend anything that is not in `sources.md`.
+
+**Short form** (gut check, quick roast, or when the user asks for something short or shareable). Under 200 words, in this layout:
+
+```
+SCORE  40/100  ████████░░░░░░░░░░░░  Tarpit or not yet an idea · confidence low
+
+VERDICT
+<two sentences>
+
+WHAT A PARTNER WOULD SAY
+› <one sharp sentence> [S##]
+› <one sharp sentence> [S##]
+› <one sharp sentence> [S##]
+
+THE QUESTION THAT DECIDES IT
+<one question>
+
+YOUR NEXT 14 DAYS
+1. <step>  2. <step>  3. <step>
+
+WATCH NEXT
+▶ <title> (<link>): <why, one line>
+```
+
+The meter has 20 cells, one per 5 points, filled with █ and padded with ░. Honest and specific; wit is fine, cruelty is not.
 
 ## Rules for citations
 

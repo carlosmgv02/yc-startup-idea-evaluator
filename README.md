@@ -12,6 +12,7 @@ A Claude skill that evaluates a startup idea the way a Y Combinator partner woul
 - **Applies only the lenses that fit.** AI-era criteria only for AI products, enterprise sales rules only for B2B, growth benchmarks only once launched, hardware judged by milestones.
 - **Tells tarpits from unpopular-but-good ideas.** An idea is not penalized for sounding strange; it is penalized for lacking an acute problem or a credible path.
 - **Shows where YC voices disagree** instead of averaging them away.
+- **Tells you what to watch next.** Every report ends with 1 to 3 YC talks or essays picked for your idea's weakest point, with links.
 
 ## Install
 

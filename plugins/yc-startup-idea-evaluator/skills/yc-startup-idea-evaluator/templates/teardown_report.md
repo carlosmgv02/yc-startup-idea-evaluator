@@ -61,6 +61,11 @@ Lenses not applied and why: {e.g. "AI-era criteria: AI is incidental to this pro
 - Up: {specific evidence that would raise the score, and to roughly what}
 - Down: {specific evidence that would lower it}
 
+## Watch next
+
+1. ▶ {title} ({link from sources.md}): {why this founder should watch it now, tied to the weakest dimension}
+2. {optional second}
+
 ## If the answer is "pivot"
 
 {Only if the band is High risk or Tarpit and the score is not provisional (a provisional score needs answers first, not a pivot): 1-2 adjacent directions grounded in what the founders know, per the pivot guidance in `tarpits_and_kill_signals.md`. Otherwise omit this section.}
