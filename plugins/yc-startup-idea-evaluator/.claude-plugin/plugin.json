@@ -1,0 +1,9 @@
+{
+  "name": "yc-startup-idea-evaluator",
+  "description": "Evaluates and stress-tests a startup idea the way a Y Combinator partner would: asks the questions that matter, checks the idea against 97 cited YC sources (Paul Graham essays, Startup School, YC partner talks), scores it with separate confidence, and proposes a 14-day test. Unofficial, not affiliated with Y Combinator.",
+  "version": "3.0.0",
+  "author": { "name": "Carlos Martínez", "url": "https://github.com/carlosmgv02" },
+  "repository": "https://github.com/carlosmgv02/yc-startup-idea-evaluator",
+  "license": "MIT",
+  "keywords": ["startups", "y-combinator", "idea-evaluation", "founders", "product-market-fit"]
+}
